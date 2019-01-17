@@ -1,0 +1,6 @@
+README.md
+setup.py
+flask_vue_spa_test.egg-info/PKG-INFO
+flask_vue_spa_test.egg-info/SOURCES.txt
+flask_vue_spa_test.egg-info/dependency_links.txt
+flask_vue_spa_test.egg-info/top_level.txt
